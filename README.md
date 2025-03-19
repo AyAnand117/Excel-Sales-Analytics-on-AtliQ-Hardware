@@ -6,7 +6,7 @@
 
     **1.** Create a _[customer performance report](https://github.com/AyAnand117/Excel-Sales-Analytics-on-AtliQ-Hardware/blob/main/Customer_Net_sales_Performance_1.pdf)_ 
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets]([https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf](https://github.com/AyAnand117/Excel-Sales-Analytics-on-AtliQ-Hardware/blob/main/Market_Net_Sales_Performance_1.pdf))_
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/AyAnand117/Excel-Sales-Analytics-on-AtliQ-Hardware/blob/main/Market_Net_Sales_Performance_1.pdf)_
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -19,9 +19,9 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year]([[https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf](https://github.com/AyAnand117/Excel-Sales-Analytics-on-AtliQ-Hardware/blob/main/Report2_made.pdf))_ & _[Months](https://github.com/AyAnand117/Excel-Sales-Analytics-on-AtliQ-Hardware/blob/main/P%26L%20Statement%20by%20Months.pdf))_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/AyAnand117/Excel-Sales-Analytics-on-AtliQ-Hardware/blob/main/Report2_made.pdf)_ & _[Months](https://github.com/AyAnand117/Excel-Sales-Analytics-on-AtliQ-Hardware/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets]([https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf](https://github.com/AyAnand117/Excel-Sales-Analytics-on-AtliQ-Hardware/blob/main/Report1_made.pdf))_
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/AyAnand117/Excel-Sales-Analytics-on-AtliQ-Hardware/blob/main/Report1_made.pdf)_
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
